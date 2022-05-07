@@ -1,11 +1,11 @@
 ---
 title: "The macro world"
-date: 2022-06-06
+date: 2022-06-08
 categories:
-  - blog
+  - macro
 tags:
+  - macro
   - maldocs
-  - informative
 ---
 
-Dummy first text
+dummy text
