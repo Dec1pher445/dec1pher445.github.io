@@ -10,3 +10,6 @@ tags:
 ---
 
 dummy text
+
+
+ {% include social-media-share.html %}
