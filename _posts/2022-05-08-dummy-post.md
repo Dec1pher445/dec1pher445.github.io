@@ -12,4 +12,4 @@ tags:
 dummy text
 
 
- {% include social-media-share.html %}
+ {% include share.html %}
