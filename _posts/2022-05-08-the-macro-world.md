@@ -1,6 +1,7 @@
 ---
+layout: single
 title: "The macro world"
-date: 2022-06-08
+date: 2022-05-08
 categories:
   - macro
 tags:
