@@ -10,6 +10,3 @@ tags:
 ---
 
 dummy text
-
-
-{% include share.html %}
