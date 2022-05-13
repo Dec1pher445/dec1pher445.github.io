@@ -11,5 +11,5 @@ tags:
 
 dummy text
 
-
-{% include share-buttons.html %}
+---
+{% include share.html %}
