@@ -10,3 +10,6 @@ tags:
 ---
 
 dummy text
+
+
+{% include share-buttons.html %}
